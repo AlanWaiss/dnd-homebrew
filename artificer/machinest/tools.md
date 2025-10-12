@@ -2,8 +2,8 @@
 
 You have created mechanical tools. You have {{proficiency*2#unsigned}} Tool Points and each use of a tool takes 1 or more points. Your points recharge at the end of a Long Rest or you can convert spell slots into Tool Points (no action required).
 
-<strong>Autocrossbow.</strong> As an action, you spend 1 Tool Point to spray a hail of bolts in a 60 ft. Cone. Each creature in that area must make a DC {{savedc:int}} DEX saving throw, taking {{(classlevel+3)/6@rounddown#unsigned}}d8 {{modifier:int}} Piercing damage on a fail, or half as much on a success. Creatures more than 30 ft. from you make this save with Advantage.
-<strong>Bioblaster.</strong> As an action, you spend 1 Tool Point to release a poisonous cloud. Each creature in a 15-foot Cube originating from you makes a CON saving throw. On a failed save, a creature takes {{(classlevel+3)/6@rounddown#unsigned}}d10 Poison damage and has the Poisoned condition until the end of your next turn. On a successful save, a creature takes half as much damage only.
+<strong>Autocrossbow.</strong> As an action, you spend 1 Tool Point to spray a hail of bolts in a 60 ft. Cone. Each creature in that area must make a DC {{savedc:int}} DEX saving throw, taking {{((classlevel+3)/6)@rounddow,max:2#unsigned}}d8 {{modifier:int}} Piercing damage on a fail, or half as much on a success. Creatures more than 30 ft. from you make this save with Advantage.
+<strong>Bioblaster.</strong> As an action, you spend 1 Tool Point to release a poisonous cloud. Each creature in a 15-foot Cube originating from you makes a CON saving throw. On a failed save, a creature takes {{((classlevel+3)/6)@rounddown,max:2#unsigned}}d10 Poison damage and has the Poisoned condition until the end of your next turn. On a successful save, a creature takes half as much damage only.
 <strong>Noiseblaster.</strong> As an action, you spend 1 Tool Point to emit a loud noise in a 10 ft. Emanation. Each creature in that area must make a DC {{savedc:int}} CON saving throw or become confused for 1 minute. Creatures that cannot hear or immune to the Charmed condition automatically succeed on this saving throw. While confused, a creature cannot take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn.
 
 ## Description
@@ -75,3 +75,5 @@ L + 3 / 6
 15 => 7d6
 
 L + 3 / 3
+
+Only at L9:
