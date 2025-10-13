@@ -52,7 +52,7 @@ When you reach an Artificer level specified in the Machinist Spells table, you t
 17
 </td>
 <td>
-[spells]Destructive Wave[/spells], [spells]Mass Cure Wounds[/spells]
+[spells]Mass Cure Wounds[/spells], [spells]Synaptic Static[/spells]
 </td>
 </tr>
 </tbody>

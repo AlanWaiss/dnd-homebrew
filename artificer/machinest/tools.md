@@ -8,7 +8,7 @@ You have created mechanical tools. You have {{proficiency*2#unsigned}} Tool Poin
 
 ## Description
 
-<p>Your tinkering has produced some remarkable tools. Your tools are specially tuned to be usable only by you and these tools are fueled by a magical energy that you produce. This energy is represented by Tool Points.</p>
+<p>Your tinkering has produced some remarkable tools. Your tools can be used as a Spellcasting Focus and count as magical items that are specially tuned to be usable only by you. These tools are fueled by a magical energy that you produce. This energy is represented by Tool Points.</p>
 <p>You have Tool Points equal to twice your Proficiency Bonus. You can't have more Tool Points than this number. You regain all expended Tool Points when you finish a Long Rest.</p>
 <p>You can use your Tool Points to fuel the options below, along with additional features that use these points.</p>
 <p><em><strong>Converting Spell Slots to Tool Points.</strong></em> You can expend a spell slot to gain a number of Tool Points equal to the slot&rsquo;s level (no action required).</p>
